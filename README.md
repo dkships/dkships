@@ -1,8 +1,8 @@
 ### Hi, I'm David Kelly
 
-I build open-source tools around Claude and MCP, and I ship consumer SaaS. Before this I spent 15 years building 9 products from zero to roughly 1M users (TidyCal, SendFox, and others at AppSumo Originals).
+I build open-source tools around Claude and MCP, and I ship consumer SaaS. Before this I spent 8 years building 9 products from zero to roughly 1M users at AppSumo Originals (TidyCal, SendFox, and others).
 
-These days I build in public with Claude Code every day. I run free Claude Code workshops for non-technical founders, and I'm a Claude Community Ambassador.
+These days I build in public with Claude Code every day. I run free Claude Code workshops for non-technical founders.
 
 #### What I'm building
 
