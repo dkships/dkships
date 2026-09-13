@@ -4,7 +4,7 @@ I build consumer products that acquire their own users, and I build them with AI
 
 For 8 years I was Founding GM and Head of Product at AppSumo Originals. I ran product, growth, and P&L for 9 SaaS products that competed with Calendly, DocuSign, and Mailchimp. We went from zero to 1M+ users in 180+ countries. Three crossed $1M in revenue, against a 4% industry average. The flagship, TidyCal, has 450K+ users and has processed $30M+ in payments. Roughly 1 in 4 of its free users upgrade to paid. Small teams and tight P&Ls.
 
-I build with AI every day now: Claude Code, Codex, Lovable (L4 Platinum), and Replit. I've shipped 300+ merged PRs across client and open-source work in 2026 without an engineering background. I've released two open-source MCP servers, including the first for the Substack Publisher API. I also teach non-technical founders to build with these tools. I follow frontier AI research closely and write about it at [dmkthinks.org](https://dmkthinks.org).
+I build with AI every day now: Claude Code, Codex, Lovable (L4: Platinum), Replit (Level 3 Proficient Builder, Top 10%), and Bolt.new. I've shipped 300+ merged PRs across client and open-source work in 2026 without an engineering background. I've released two open-source MCP servers, including the first for the Substack Publisher API. I also teach non-technical founders to build with these tools. I follow frontier AI research closely and write about it at [dmkthinks.org](https://dmkthinks.org).
 
 Now I'm looking for product and growth leadership at a frontier AI or high-growth consumer company, in a Head of Product, Head of Product Growth, or GM role where product-led growth is the engine.
 
