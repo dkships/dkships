@@ -2,11 +2,11 @@
 
 I build consumer products that acquire their own users, and I build them with AI.
 
-From 2018 to 2025 I was Founding General Manager and Head of Product at AppSumo Originals. I built the product line from zero to 1.22M+ registered accounts, with customers in 200+ countries and territories, competing with Calendly, DocuSign, and Mailchimp. Multiple launches crossed $1M in lifetime revenue. The flagship, TidyCal, has about 450K accounts and has processed $30M+ in payments for its users, and roughly 1 in 4 of its users bought the lifetime deal. Small teams and tight P&Ls. In 2026 I stayed on as a contract advisor to AppSumo Originals through August.
+From 2018 to 2025 I was Founding General Manager and Head of Product at AppSumo Originals. I built the product line from zero to 1.22M+ registered accounts, with customers in 200+ countries and territories, competing with Calendly, DocuSign, and Mailchimp. Multiple launches crossed $1M in lifetime revenue. The flagship, TidyCal, has about 450K accounts and has processed $30M+ in payments for its users, and roughly 1 in 4 of its users bought the lifetime deal. Small teams and tight P&Ls. In 2026 I moved into an advisor role.
 
 Since the start of 2026 I've built in public every day. I've merged 600+ pull requests as a non-engineer, shipped two open-source MCP servers, and published Ship Sense, an open eval that scores frontier models on product judgment under uncertainty. I also run free workshops teaching non-technical founders to build with Claude Code.
 
-I now work independently as a product and growth lead, currently with SendOwl Holdings, and earlier this year with Table22 and FOUND, a paid restaurant newsletter. I also coach founders of small SaaS companies. I'm looking for full-time or fractional product and growth leadership at a frontier AI or high-growth consumer company, in a Head of Product, Head of Product Growth, or GM role where product-led growth is the engine.
+I'm now a fractional head of product and growth, with clients AppSumo, FOUND, Table22, and SendOwl Holdings. I'm looking for full-time or fractional product and growth leadership at a frontier AI or high-growth consumer company, in a Head of Product, Head of Product Growth, or GM role where product-led growth is the engine.
 
 #### What I'm building
 
