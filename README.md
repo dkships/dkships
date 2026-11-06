@@ -1,4 +1,4 @@
-### Hi, I'm David Kelly 👋
+### Hi, I'm David 👋
 
 I build consumer products that acquire their own users, and I build them with AI.
 
