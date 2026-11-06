@@ -6,7 +6,7 @@ From 2018 to 2025 I was Founding General Manager and Head of Product at AppSumo 
 
 Since the start of 2026 I've built in public every day. I've merged 600+ pull requests as a non-engineer, shipped two open-source MCP servers, and published Ship Sense, an open eval that scores frontier models on product judgment under uncertainty. I also run free workshops teaching non-technical founders to build with Claude Code.
 
-I'm now a fractional head of product and growth, with clients AppSumo, FOUND, Table22, and SendOwl Holdings. I'm looking for full-time or fractional product and growth leadership at a frontier AI or high-growth consumer company, in a Head of Product, Head of Product Growth, or GM role where product-led growth is the engine.
+I'm now a fractional head of product and growth, with clients AppSumo, FOUND, Table22, and SendOwl Holdings. I'm looking for full-time or fractional product and growth leadership at a frontier AI or high-growth consumer company, in a product leadership or GM role where fast, product-led growth is the focus.
 
 #### What I'm building
 
