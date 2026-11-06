@@ -6,7 +6,7 @@ From 2018 to 2025 I was Founding GM & Head of Product at AppSumo Originals. **I 
 
 I've merged 600+ PRs in 2026 with Claude Code and Codex, and I'm a top-ranked builder on Lovable and a [Level 3 Proficient Builder, top 10%](https://replit-certifications.replit.app/dkships) on Replit.
 
-**Today I'm a fractional head of product and growth.** I help define strategy, write the specs, prompts, and evals, and ship much of the code myself. Clients this year: AppSumo, FOUND, Table22, and SendOwl.
+**Nowadays, I'm a fractional head of product and growth.** I help define strategy, write specs, prompts, and evals, ship much of the code myself, and measure and iterate depending on results. Focusing on 0-to-1 and 1-to-scale end-to-end on B2C products. Clients this year are AppSumo, FOUND, Table22, and SendOwl.
 
 I'm looking for full-time or fractional product leadership or GM roles at frontier AI and AI-native companies. If your AI product needs its next million users, [let's talk](https://linkedin.com/in/thedmkelly).
 
