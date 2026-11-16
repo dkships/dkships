@@ -21,4 +21,4 @@ Open to: Full-time or fractional product leadership roles frontier AI and AI-nat
 - [llm-moods](https://github.com/dkships/llm-moods) powers [llmvibes.ai](https://llmvibes.ai), a live dashboard of how people feel about each LLM, with daily updates and tracking.
 - [genogramcreator.me](https://genogramcreator.me) maps family history and relationship patterns.
 
-More on my [Projects page](https://dmkthinks.org/projects/). I write at [dmkthinks.org](https://dmkthinks.org).
+More on my [Projects page](https://dmkthinks.org/projects/). I write at [dmkthinks.org](https://dmkthinks.org) and post on [X @dmkthinks](https://x.com/dmkthinks).
