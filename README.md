@@ -14,7 +14,7 @@ Open to: Full-time or fractional product leadership roles frontier AI and AI-nat
 
 #### What I'm building
 
-- [Ship Sense](https://github.com/dkships/ship-sense) measures product judgement and taste. It scores 71 models (24 current) on 100 real product decisions, with 95% confidence intervals.
+- [Ship Sense](https://github.com/dkships/ship-sense) measures product judgement and taste. It scores 72 models (25 current) on 100 real product decisions, with 95% confidence intervals.
 - [pm-copilot](https://github.com/dkships/pm-copilot) is an MCP server that connects support tickets and feature requests, so PMs can see what to build next. CI fails if its eval drops below 0.90 F1.
 - [substack-publisher-mcp](https://github.com/dkships/substack-publisher-mcp) is the first MCP server on Substack's official Publisher API.
 - [Game Night](https://gamenight.zone) runs 32 browser games with room codes and an AI opponent. Every change runs Playwright tests and full games played by AI players.
